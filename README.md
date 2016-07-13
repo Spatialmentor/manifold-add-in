@@ -23,12 +23,12 @@ Steps to follow:
  4. Copy the xml file inside the \bin\ folder solution to the Manifold installation config folder (usually ...\Manifold System\Config);
  5. Launch Manifold and load the MyPane Add-in;
 
-> **Note:**
- > If you want Manifold.exe to be launched when debugging the add-in, Visual Studio project settings can be adjusted for it;
- > Manifold.Net .Net API, doesn't provide integrated Visual Studio intellisense documentation so you should download the object model (references section, first topic);
- > For project enhancements, bugs, other issues, raise an issue;
- > Both project templates (x64 & x86) where tested using Manifold and they worked;
- > When building or debugging the project target "Any CPU" for both x64 & x86 Manifold versions;
+> **Notes:**
+* If you want Manifold.exe to be launched when debugging the add-in, Visual Studio project settings can be adjusted for it;
+* Manifold.Net .Net API, doesn't provide integrated Visual Studio intellisense documentation so you should download the object model (references section, first topic);
+* For project enhancements, bugs, other issues, raise an issue;
+* Both project templates (x64 & x86) where tested using Manifold and they worked;
+* When building or debugging the project target "Any CPU" for both x64 & x86 Manifold versions;
 
 3. References
 -------------
