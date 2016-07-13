@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xml>
+<addin>
+<name>My Pane C#</name>
+<command>
+<name>My Pane C#</name>
+<form>MyPaneCSharp.dll;MyPaneCSharp.MyPaneControl</form>
+</command>
+</addin>
+</xml>
+

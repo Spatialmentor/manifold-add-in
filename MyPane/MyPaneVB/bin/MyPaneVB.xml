@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xml>
+<addin>
+<name>My Pane VB</name>
+<command>
+<name>My Pane VB</name>
+<form>MyPaneVB.dll;MyPaneVB.MyPaneControl</form>
+</command>
+</addin>
+</xml>
+

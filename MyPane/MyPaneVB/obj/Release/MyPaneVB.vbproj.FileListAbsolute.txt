@@ -1,0 +1,10 @@
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\bin\Release\MyPaneVB.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\bin\Release\MyPaneVB.pdb
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\bin\Release\MyPaneVB.xml
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Release\MyPaneVB.Resources.resources
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Release\MyPaneVB.MyPaneControl.resources
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Release\MyPaneVB.vbproj.GenerateResource.Cache
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Release\MyPaneVB.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Release\MyPaneVB.xml
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Release\MyPaneVB.pdb
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Release\MyPaneVB.vbprojResolveAssemblyReference.cache

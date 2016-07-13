@@ -1,0 +1,10 @@
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\bin\Debug\MyPaneVB.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\bin\Debug\MyPaneVB.pdb
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\bin\Debug\MyPaneVB.xml
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\bin\Debug\Manifold.Interop.Scripts.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Debug\MyPaneVB.Resources.resources
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Debug\MyPaneVB.MyPaneControl.resources
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Debug\MyPaneVB.vbproj.GenerateResource.Cache
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Debug\MyPaneVB.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Debug\MyPaneVB.xml
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneVB\obj\Debug\MyPaneVB.pdb

@@ -1,0 +1,7 @@
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\bin\Debug\MyPaneCSharp.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\bin\Debug\MyPaneCSharp.pdb
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Debug\MyPaneCSharp.csprojResolveAssemblyReference.cache
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Debug\MyPaneCSharp.MyPaneControl.resources
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Debug\MyPaneCSharp.csproj.GenerateResource.Cache
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Debug\MyPaneCSharp.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Debug\MyPaneCSharp.pdb

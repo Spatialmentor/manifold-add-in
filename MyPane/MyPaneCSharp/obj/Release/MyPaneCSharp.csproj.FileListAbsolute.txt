@@ -1,0 +1,6 @@
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\bin\Release\MyPaneCSharp.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\bin\Release\MyPaneCSharp.pdb
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Release\MyPaneCSharp.MyPaneControl.resources
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Release\MyPaneCSharp.csproj.GenerateResource.Cache
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Release\MyPaneCSharp.dll
+D:\Projects\VS2015\Projects\MyPaneVB\MyPaneCSharp\obj\Release\MyPaneCSharp.pdb
